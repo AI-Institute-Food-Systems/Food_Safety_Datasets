@@ -16,7 +16,6 @@ and running the codes. Please refer to the README file in each repository shown 
 🐔 [Predicting *Salmonella* presence in raw chicken carcass using temporal and meteorological data](https://github.com/FoodDatasets/RawChickenCarcasses) <br>
 💧 [Predicting fecal contamination in agricultural water using geospatial and meteorological data](https://github.com/FoodDatasets/Environmental-Factors-Water-Quality-Analysis)
 
-
 ## Authors👥
 This project is a multi-institutional collaboration. You can view the list of authors in the [AUTHORS](https://github.com/AI-Institute-Food-Systems/P2_Food_Safety_Datasets/blob/main/AUTHORS.md) file.
 
@@ -24,6 +23,9 @@ This project is a multi-institutional collaboration. You can view the list of au
 The platform is open to anyone interested in contributing to the advancement of food safety. If you would like
 to submit a dataset, please contact Luke Qian at cq87@cornell.edu. If you would like to report an issue or make suggestions
 to enhance the platform, please use the *issue* tab. 
+
+## License📄
+This project is licensed under the Apache-2.0 license. Please see the [LICENSE](https://github.com/AI-Institute-Food-Systems/P2_Food_Safety_Datasets/blob/main/LICENSE) file for details
 
 ## Funding💰
 We acknowledge the funding supported by the [AI Institute for Food Systems](https://aifs.ucdavis.edu/)
