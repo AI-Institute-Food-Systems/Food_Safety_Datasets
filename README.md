@@ -8,12 +8,12 @@ sharing is to provide publicly available and meticulously curated datasets for (
 algorithms with enhanced performance, (2) merging similar datasets to form a more comprehensive dataset, 
 and (3) facilitating transfer learning. 
 
-## Usage
+## Usage🛠️
 The platform is hosted on the GitHub organization page at https://github.com/FoodDatasets.
 Each repository represents a dataset with detailed information on the project context, metadata, and instructions on installation
 and running the codes. Please refer to the README file in each repository for specific usage instructions.
 
-## Authors
+## Authors👥
 This project is a multi-institutional collaboration. You can view the list of authors in the [AUTHORS](https://github.com/AI-Institute-Food-Systems/P2_Food_Safety_Datasets/blob/main/AUTHORS.md) file.
 
 ## Contribution🤝
