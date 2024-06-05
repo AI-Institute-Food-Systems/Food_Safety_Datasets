@@ -13,7 +13,7 @@ The platform is hosted on the GitHub organization page at https://github.com/Foo
 Each repository represents a dataset with detailed information on the project context, metadata, and instructions on installation
 and running the codes. Please refer to the README file in each repository shown in the following links for specific usage instructions.<br>
 🌱 [Predicting *Listeria* spp. presence in soil samples using soil, geospatial, and meteorological data](https://github.com/FoodDatasets/ListeriaFoodEnvironment)<br>
-🐔 [Predicting *Salmonella* presence in raw chicken carcass using temporal, geospatial, and meteorological data](https://github.com/FoodDatasets/RawChickenCarcasses) <br>
+🐔 [Predicting *Salmonella* presence in raw chicken carcass using temporal and meteorological data](https://github.com/FoodDatasets/RawChickenCarcasses) <br>
 💧 [Predicting fecal contamination in agricultural water using geospatial and meteorological data](https://github.com/FoodDatasets/Environmental-Factors-Water-Quality-Analysis)
 
 
