@@ -12,9 +12,9 @@ and (3) facilitating transfer learning.
 The platform is hosted on the GitHub organization page at https://github.com/FoodDatasets.
 Each repository represents a dataset with detailed information on the project context, metadata, and instructions on installation
 and running the codes. Please refer to the README file in each repository shown in the following links for specific usage instructions.<br>
-🌱 [Predicting *Listeria* spp. presence in soil samples using soil, geospatial, and meteorological data](https://github.com/FoodDatasets/ListeriaFoodEnvironment)<br>
-🐔 [Predicting *Salmonella* presence in raw chicken carcass using temporal and meteorological data](https://github.com/FoodDatasets/RawChickenCarcasses) <br>
-💧 [Predicting fecal contamination in agricultural water using geospatial and meteorological data](https://github.com/FoodDatasets/Environmental-Factors-Water-Quality-Analysis)
+🌱 [Predicting *Listeria* spp. presence in soil samples](https://github.com/FoodDatasets/ListeriaFoodEnvironment)<br>
+🐔 [Predicting *Salmonella* presence in raw chicken carcass](https://github.com/FoodDatasets/RawChickenCarcasses) <br>
+💧 [Predicting fecal contamination in agricultural water](https://github.com/FoodDatasets/Environmental-Factors-Water-Quality-Analysis)
 
 ## Authors👥
 This project is a multi-institutional collaboration. You can view the list of authors in the [AUTHORS](https://github.com/AI-Institute-Food-Systems/P2_Food_Safety_Datasets/blob/main/AUTHORS.md) file.
