@@ -9,7 +9,7 @@ algorithms with enhanced performance, (2) merging similar datasets to form a mor
 and (3) facilitating transfer learning. 
 
 ## Usage🛠️
-The platform is hosted on the GitHub organization page at [https://github.com/FoodDatasets](https://github.com/Cornell-Food-Safety-AI-Repository).
+The platform is hosted on the GitHub organization page at [https://github.com/Cornell-Food-Safety-AI-Repository](https://github.com/Cornell-Food-Safety-AI-Repository).
 Each repository represents a dataset with detailed information on the project context, metadata, and instructions on installation
 and running the codes. Please refer to the README file in each repository shown in the following links for specific usage instructions.<br>
 🌱 [Predicting *Listeria* spp. presence in soil samples](https://github.com/Cornell-Food-Safety-AI-Repository/Predicting-Listeria-spp.-presence-in-soil-samples)<br>
